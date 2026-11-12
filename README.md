@@ -53,6 +53,4 @@ python -m unittest discover -s tests
 - Static report; no live inventory feed.
 - Possible extensions: weight by how critical the device is to patient care, factor in warranty and age, connect to an asset-management export, and add cost estimates for refresh planning.
 
-## License
 
-MIT. See [LICENSE](LICENSE).
